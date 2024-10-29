@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Note\\Desktop\\AP\\Lab9.2.2\\Lab9.2.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A035357-C040-4513-9A9C-2A66ACE6427A}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\Note\\Desktop\\AP\\Lab9.2.2\\Lab9.2.2\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A035357-C040-4513-9A9C-2A66ACE6427A}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D4E74E5-CD6D-4F88-B374-B2B67F60D67B}|Lab9.2.2\\Lab9.2.2.vcxproj|C:\\Users\\Note\\Desktop\\AP\\Lab9.2.2\\Lab9.2.2\\Lab9.2.2\\Lab9.2.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D4E74E5-CD6D-4F88-B374-B2B67F60D67B}|Lab9.2.2\\Lab9.2.2.vcxproj|solutionrelative:Lab9.2.2\\Lab9.2.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\Note\\Desktop\\AP\\Lab9.2.2\\Lab9.2.2\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\Note\\Desktop\\AP\\Lab9.2.2\\Lab9.2.2\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-27T22:32:04.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab9.2.2.cpp",
+              "DocumentMoniker": "C:\\Users\\Note\\Desktop\\AP\\Lab9.2.2\\Lab9.2.2\\Lab9.2.2\\Lab9.2.2.cpp",
+              "RelativeDocumentMoniker": "Lab9.2.2\\Lab9.2.2.cpp",
+              "ToolTip": "C:\\Users\\Note\\Desktop\\AP\\Lab9.2.2\\Lab9.2.2\\Lab9.2.2\\Lab9.2.2.cpp",
+              "RelativeToolTip": "Lab9.2.2\\Lab9.2.2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-27T22:25:40.462Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
